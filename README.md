@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique auqi para acessar](https://andreliciosantos.github.io/NLW-eSport-Explorer/)
+[Clique aqui para acessar](https://andreliciosantos.github.io/NLW-eSport-Explorer/)
 
 ## 🛠 Tecnologias 
 
