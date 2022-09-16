@@ -80,7 +80,7 @@ section p {
 section ul {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 14px;
 
   margin-top: 24px;
 }
